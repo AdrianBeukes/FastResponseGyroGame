@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="colourPickerArray">
+        <item>@color/grey</item>
+        <item>@color/blue</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/pink</item>
+    </array>
+</resources>

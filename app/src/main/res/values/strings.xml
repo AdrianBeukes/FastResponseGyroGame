@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Fastest Response Game</string>
+
+    <string name="finish">Finish Game</string>
+    <string name="next">Start Next Round</string>
+    <string name="score">Your Score is %1$d out of %2$d</string>
+    <string name="score_in_game">Score %1$d</string>
+    <string name="enter_name">Please Enter Your Name</string>
+    <string name="toast_correct">Nice one, you got it!</string>
+    <string name="toast_incorrect">Oops, wrong direction</string>
+    <string name="progress">%1$d/%2$d</string>
+    <string name="title_game">Fastest Response Game</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="start">Start</string>
+    <string name="question">Tilt your device in the direction displayed</string>
+    <string name="game_start_in">Game will start in</string>
+    <string name="countdown_timer">3..2..1</string>
+    <string name="progress_tracker">0/10</string>
+    <string name="submit">Submit</string>
+    <string name="congrats">Hey, Congratulations!</string>
+    <string name="finish_return_home">FINISH</string>
+
+</resources>
